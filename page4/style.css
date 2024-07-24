@@ -1,0 +1,43 @@
+*{
+  padding: 0;
+  margin: 0;
+} 
+  svg {
+    position: absolute;
+  }
+  
+  #text {
+    position: absolute;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 0%);
+    font-family: 'Oswald', arial;
+    color: #ED002E;
+    font-size: 50px;
+    font-size: 5.5vw;
+    text-align: center;
+  }
+  
+  #text h2{
+    color: black;
+  }
+  
+  #text span {
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-size: 5vw;
+  }
+  #H .Body{
+    fill: white;
+  }
+    #T .L{
+    fill: red;
+  }
+
+  #P .M{
+    fill: red;
+  }
+
+  #P .PL1, .PR1{
+    fill: black;
+  }

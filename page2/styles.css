@@ -1,0 +1,114 @@
+.svg-icon-container {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.svg-icon {
+    width: 50px;
+    height: 50px; 
+    margin-right: 10px;
+}
+
+.centered-text {
+    position: absolute;
+    top: 10;
+    left: 25%;
+    font-family: 'Oswald', arial;
+    font-size: 50px;
+    font-size: 5.5vw;
+    color: #CC3333;
+    margin: 0;
+}
+
+h2.centered-text {
+    color: #000000;
+}
+ {
+    color: #0000;
+}
+
+.right-text {
+    text-align: right;
+    font-size: 40px;
+    font-size: 4.5vw;
+}
+
+.st1 { font-family: 'ArialMT'; }
+.st2 { font-size: 6px; }
+.st3 { fill: #232323; }
+.st4 { fill: #F0CA60; }
+.st5 { fill: #F9F4F4; }
+.st6 { fill: #C68F20; }
+.st7 { fill: #00EC8F; }
+.st8 { fill: #1B141C; }
+.st9 { fill: #11A16E; }
+.st10 { fill: #79FE8D; }
+.st11 { fill: #09A464; }
+.st12 { fill: #005932; }
+.st13 { fill: #7BFE87; }
+.st14 { fill: #13A264; }
+.st15 { fill: #76FE8F; }
+.st16 { font-size: 7px; }
+.st17 { fill: #00E789; }
+.st18 { fill: #144036; }
+.st19 { fill: #B3E7B8; }
+.st20 { fill: #82D889; }
+.st21 { fill: #FFFFFF; }
+.st22 { fill: #2D453D; }
+.st23 { fill: #133E34; }
+.st24 { fill: #F7F9F7; }
+.st25 { fill: #123F33; }
+.st26 { fill: #18D88D; }
+.st27 { fill: #0B201D; }
+.st28 { fill: #79CA48; }
+.st29 { fill: #1F3211; }
+.st30 { fill: #7DC54F; }
+.st31 { fill: #00440A; }
+.st32 { fill: #004202; }
+.st33 { font-size: 3px; }
+
+
+/*  body {
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: stretch;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+display: flex;
+justify-content: center;
+align-items: center;
+
+flex-wrap: nowrap;
+align-content: stretch;
+ 
+
+    .svg-icon {
+        display: inline-block;  Para que el contenedor se ajuste al contenido 
+        position: relative;  Permitirá posicionar el texto con respecto al contenedor 
+        width: 50px;  Ancho del contenedor (ajusta según sea necesario) 
+        height: 50px;  Altura del contenedor (ajusta según sea necesario) 
+        margin-right: 10px;  Espacio entre ícono y texto (ajusta según sea necesario) 
+    }
+
+    .svg-icon svg {
+        width: 100%;
+        height: 100%;
+        fill: #000;  Color del icono (ajusta según sea necesario) 
+    }
+
+    .svg-icon p {
+        position: absolute; Para posicionar el texto dentro del contenedor 
+        top: 50%; Centrar verticalmente 
+        left: calc(100% + 5px);  Alinear el texto a la derecha del ícono 
+        transform: translateY(-50%);  Centrar verticalmente 
+        margin: 0;  Eliminar márgenes 
+        font-size: 14px;  Tamaño de fuente del texto (ajusta según sea necesario) 
+        color: #333;  Color del texto (ajusta según sea necesario) 
+    }
+ */
+ 

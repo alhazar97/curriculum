@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', arial;
+}
+.svg-icon-container {
+    display: flex;
+}
+
+ .svg-icon {
+    width: 30px;
+    height: 30px; 
+}
+
+#text {
+    font-family: 'Oswald', arial;
+    font-size: 50px;
+    font-size: 5.5vw;
+    text-align: center;
+    color: #f7f9f7;
+  }
+
+.centered-text {
+    color: #CC3333;
+}
+
+h2{
+    color: #000000;
+}
+
+h3{
+    text-align: left;
+    
+}
+.st3{fill:#E55127;}
+.st4{fill:#FFFFFF;}
+.st5{fill:#E7A12A;}
+.st6{fill:#1073B7;}
+.st7{fill:#FFB13B;}
+.st8{stroke:#45173E;stroke-width:0.25;stroke-miterlimit:10;}
+.st9{fill:#3DD7F6;}
+.st10{fill:#FDA93C;}
+.st11{fill:#FF308D;}
+.st12{fill:#9053FC;}
+.st13{fill:#17FE95;}
+.st14{fill:#FE7C0A;}
+.st15{fill:#261200;}
+.st16{fill:#06CDF8;}
+.st17{fill:#001B23;}
+.st18{fill:#08C9FE;}
+.st19{fill:#EE3A25;}
+.st20{fill:#250601;}
+.st21{fill:#ED8E33;}
+.st22{fill:#035485;}
